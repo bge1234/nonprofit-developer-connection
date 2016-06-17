@@ -1,8 +1,8 @@
-- Add forms partials files/folders.
-- CRUD nonprofits.
+- CRUD routes for nonprofits.
 - Nonprofits views.
-- CRUD projects.
+- CRUD routes for projects.
 - Projects views.
-- CRUD users.
+- CRUD routes for users.
 - Users views.
 - Implement password hashing.
+- Add OAuth from GitHub.
