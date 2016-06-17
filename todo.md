@@ -1,3 +1,4 @@
+- Add forms partials files/folders.
 - CRUD nonprofits.
 - Nonprofits views.
 - CRUD projects.
