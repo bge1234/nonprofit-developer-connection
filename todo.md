@@ -1,6 +1,4 @@
-- CRUD routes for nonprofits.
 - Nonprofits views.
-- CRUD routes for projects.
 - Projects views.
 - CRUD routes for users.
 - Users views.
