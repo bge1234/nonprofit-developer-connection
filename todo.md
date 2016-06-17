@@ -1,0 +1,7 @@
+- CRUD nonprofits.
+- Nonprofits views.
+- CRUD projects.
+- Projects views.
+- CRUD users.
+- Users views.
+- Implement password hashing.
